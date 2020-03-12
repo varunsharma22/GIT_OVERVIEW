@@ -3,11 +3,6 @@
 qw
 e
 
-f
-ds
-sd
-F
-fd
 
 Welcome to Vodafone NZ
 
