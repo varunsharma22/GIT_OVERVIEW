@@ -10,3 +10,5 @@ F
 fd
 
 Welcome to Vodafone NZ
+
+Thank you 
